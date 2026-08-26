@@ -1,4 +1,4 @@
-# Hướng dẫn tạo Technocore DID cho FLOP — dành cho người Việt mới bắt đầu
+# Hướng dẫn tạo Technocore DID cho FLOP , dành cho người mới bắt đầu
 
 > **Đọc phần này trước khi làm bất cứ điều gì.**
 >
