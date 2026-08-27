@@ -67,7 +67,18 @@ mkdir C:\flop-agent
 cd C:\flop-agent
 ```
 
-**Bước 3.2.** Chép file `flop_agent.py` vào thư mục `C:\flop-agent`.
+**Bước 3.2.** Tải file `flop_agent.py` về máy:
+
+1. Ở trang chính của repo này, bấm vào tên file `flop_agent.py`
+2. Bấm nút **Download raw file** (biểu tượng mũi tên xuống, góc trên bên phải khung code)
+3. File sẽ nằm trong thư mục **Downloads**. Chép nó sang `C:\flop-agent`
+
+> ⚠️ Windows đôi khi tự thêm đuôi `.txt` thành `flop_agent.py.txt`. Kiểm tra bằng lệnh `dir`. Nếu bị vậy, chạy:
+>
+> ```powershell
+> cd C:\flop-agent
+> ren flop_agent.py.txt flop_agent.py
+> ```
 
 **Bước 3.3.** Mở file bằng Notepad và sửa **4 chỗ** ở phần đầu:
 
