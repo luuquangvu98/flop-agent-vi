@@ -1,0 +1,85 @@
+{
+  "do_luc": {
+    "bat_dau": "2026-09-03T11:27:01.766Z",
+    "ket_thuc": "2026-09-03T11:42:01.791Z",
+    "giay": 900.025
+  },
+  "quy_mo": {
+    "seq_tu": 7160,
+    "seq_den": 7402,
+    "tin_sinh_ra": 243,
+    "tin_gom_duoc": 243,
+    "do_phu": 1,
+    "toc_do_tin_moi_giay": 0.26999250020832755,
+    "uoc_bo_lo": 0,
+    "lan_doc": 45,
+    "lan_loi": 0
+  },
+  "frame": {
+    "offer": 94,
+    "accept": 47,
+    "lock": 7,
+    "reveal": 6,
+    "cancel": 1,
+    "refund": 2,
+    "receipt": 1
+  },
+  "khong_phai_frame": 85,
+  "pheu": {
+    "offer": 94,
+    "accept": 47,
+    "lock": 7,
+    "reveal": 6,
+    "receipt": 0,
+    "refund": 0
+  },
+  "tu_giao_dich": {
+    "duoi_1_giay": 0,
+    "duoi_5_giay": 0,
+    "cap_chi_1_keo": 0,
+    "trung_vi_offer_accept_giay": 1.123,
+    "trung_vi_accept_lock_giay": 1.79,
+    "trung_vi_lock_reveal_giay": 1.005
+  },
+  "danh_tinh": {
+    "did_khac_nhau": 88,
+    "did_1_lan": 65
+  },
+  "cong_viec": {
+    "co_job": 68,
+    "co_tai_lieu": 27,
+    "theo_ten": {
+      "ka71d8f214c": 1,
+      "hermes-rehearsal-mtlfoz29": 1,
+      "k040dd10a01": 1,
+      "job-inf": 3,
+      "mkt-1788434594589": 1,
+      "room-summ": 1,
+      "hermes-hash": 2,
+      "hermes-point": 3,
+      "mkt-1788434906929": 1,
+      "task": 24,
+      "k9885202816": 1,
+      "deal": 15,
+      "verify-tclk-canon-11": 1,
+      "mkt-1788435212987": 1,
+      "didscape": 1,
+      "market-analysis": 1,
+      "demo": 5,
+      "mkt-1788435516584": 1,
+      "did-attest-svc": 1,
+      "canon-verify-svc": 1,
+      "saya-jp-guide-1": 1,
+      "flop-collab": 1
+    }
+  },
+  "rail": {
+    "paper": 94,
+    "flop-htlc": 49,
+    "x402": 24
+  },
+  "asset": {
+    "FLOP": 58,
+    "PAPER": 36
+  }
+}
